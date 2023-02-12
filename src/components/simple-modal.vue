@@ -46,11 +46,12 @@ export default {
   display: grid;
   place-items: center;
   backdrop-filter: blur(.5rem);
+  z-index: 99;
 }
 .modal-backdrop {
   position: absolute;
   inset:0;
-  z-index: 1;
+  z-index: 100;
 }
 .modal-content {
   width: max-content;
@@ -64,7 +65,7 @@ export default {
   border-radius: 1rem;
   position: relative;
   border: .3rem solid #fff;
-  z-index:2;
+  z-index:101;
 }
 .modal-close-btn {
   width: 1rem;

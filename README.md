@@ -2,6 +2,8 @@
 
 Simple mobile friendly modal component
 
+#### DEMO https://vue-simple-modal.netlify.app/
+
 ![vue-simple-modal.png](src%2Fassets%2Fvue-simple-modal.png)
 
 ## Project setup

@@ -95,7 +95,7 @@ button {
 .btn-primary {
   background: coral;
 }
-.copyright { position: absolute; bottom:1rem; right:1rem; z-index: -1}
+.copyright { position: absolute; bottom:1rem; right:1rem; z-index: 0}
 .copyright a {padding: .3rem; opacity: .7; transition: all .3s;}
 .copyright a:hover {opacity: 1}
 </style>
