@@ -1,5 +1,9 @@
 # vue-simple-modal
 
+Simple mobile friendly modal component
+
+![vue-simple-modal.png](src%2Fassets%2Fvue-simple-modal.png)
+
 ## Project setup
 ```
 npm install
